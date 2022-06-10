@@ -1,2 +1,2 @@
 # ISA
-ISA Workshp
+ISA Workshop
